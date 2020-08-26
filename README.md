@@ -8,5 +8,10 @@ Covid-19 has affected millions of people worldwide. To help visualize the how th
 New York Times' confirmed cases in United States dataset that is updated everyday <br>
 https://github.com/nytimes/covid-19-data
 
+## Screenshots
+<img src="Images/dashboard1.PNG">
+<img src="Images/dashboard2.PNG">
+<img src="Images/dashboard3.PNG">
+
 ## Try it Out!
 https://tsheung.github.io/Covid-19-Dashboard/covid19.html
